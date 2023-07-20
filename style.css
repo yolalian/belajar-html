@@ -23,17 +23,11 @@ h4.logo-text {
 
 .inner-table-1 {
   width: 100%;
+  padding: 3px
 }
 
 .inner-table-2 {
   width: 55%;
-}
-
-.inner-table-1 td {
-  padding: 3px;
-}
-
-.inner-table-2 td {
   padding: 3px;
 }
 
