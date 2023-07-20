@@ -1,0 +1,51 @@
+body {
+  font-family: Calibri, Arial, sans-serif;
+}
+
+.table-wrapper {
+  width: 400px;
+  margin: 0 auto;
+  border: 3px solid rgb(28, 27, 27);
+  padding: 10px;
+}
+
+.logo {
+  width: 120px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+h4.logo-text {
+  text-align: center;
+  margin: 0;
+}
+
+.inner-table-1 {
+  width: 100%;
+}
+
+.inner-table-2 {
+  width: 55%;
+}
+
+.inner-table-1 td {
+  padding: 3px;
+}
+
+.inner-table-2 td {
+  padding: 3px;
+}
+
+h3 {
+  margin: 0; 
+}
+
+h4.utbk-text {
+  margin: 0;
+  text-align: center;
+}
+
+h4.disclaimer {
+  text-align: center;
+}
